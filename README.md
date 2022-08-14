@@ -1,4 +1,7 @@
-# maawe-pono
+# Mā'awe Pono
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 This is a personal learning hub for the community-based research course Mā'awe Pono by Kū-A-Kanaka LLC/Code for America.
 
 ## License
