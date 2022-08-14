@@ -1,6 +1,8 @@
 # Mā'awe Pono Glossary
 This glossary introduces key Hawaiian and Mā'awe Pono terminology.
 
+[All](#māawe-pono-glossary) | [A](#A)| [B](#B) | C | D | [E](#E) | F | G | [H](#H) | [I](#I) | J | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P)
+
 ## A
 ### Aloha
 Aloha is the Hawaiian word for love and compassion. It is also used when greeting or parting from someone.
