@@ -1,7 +1,7 @@
 # Mā'awe Pono Glossary
 This glossary introduces key Hawaiian and Mā'awe Pono terminology.
 
-[All](#māawe-pono-glossary) | [A](#A)| [B](#B) | C | D | [E](#E) | F | G | [H](#H) | [I](#I) | J | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P)
+[All](#māawe-pono-glossary) | [A](#A)| B | C | D | [E](#E) | F | G | [H](#H) | [I](#I) | J | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P)
 
 ## A
 ### Aloha
