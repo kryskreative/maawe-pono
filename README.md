@@ -18,5 +18,5 @@ This work is licensed under a
 ## Further Reading
 [Mā'awe Pono: A Hawaiian Research Methodology](https://drive.google.com/file/d/1rgV64DQ565XpVVrDAP2Rll1e3ZzYJm5b/view?usp=sharing) by Dr. Kū Kahakalau
 
-[[Glossary]]
+[Glossary](https://github.com/kryskreative/maawe-pono/blob/main/glossary.md)
 
