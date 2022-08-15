@@ -21,6 +21,9 @@ E ho'ā'o nō i pau kuhihewa is the Hawaiian that means "Try it and rid yourself
 E ho'omanawanui is a Hawaiian saying that means "Be patient."
 
 ## F
+### face
+Face is a term to describe the issue of confronting feelings, especially with elders and cultural or academic experts. In Indigenous communities, it is generally considered impolite and embarrassing to praise or criticize others.
+
 ## G
 ## H
 ### Hawai'i
@@ -91,7 +94,7 @@ Nānā ka maka, ho'olohe ka pepeiao, p'a ka waha is a well-known Hawaiian prover
 Nei ka honua, he 'ōla 'i ia is a Hawaiian proverb that means "When the earth trembles, it is an earthquake. We know what it is by what it does."
 
 ## O
-### Ōlelo ke kupa o ka 'āina ua mālie, ua au koa'e
+### 'Ōlelo ke kupa o ka 'āina ua mālie, ua au koa'e
 Ōlelo ke kupa o ka 'āina ua mālie, ua au koa'e is a Hawaiian proverb that means "The natives of the land declare the weather is calm when the tropic bird travels afar."
 
 ### 'O ka uhiwai nō kā i 'ike i ka 'ino o ka wai
