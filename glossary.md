@@ -78,12 +78,18 @@ Mā'awe Pono is a 21st century Hawaiian research method.
 Ma ka hana ka 'ike is a Hawaiian proverb that means "By doing one learns."
 
 ### mana
-A mana is the Hawaiian word for personal power.
+A mana is the Hawaiian word for personal or spiritual power.
+
+### mo'o
+A mo'o is the Hawaiian word for dragon.
 
 ### mo’okū’auhau
 Mo’okū’auhau is the Hawaiian word for geneology.
 
 ## N
+### na'au
+Na'au is the Hawaiian word for gut.
+
 ### Nānā ka maka, hana ka lima
 Nānā ka maka, hana ka lima is an ancient Hawaiian proverb that means "Observe with the eyes; work with the hands. Just watching isn’t enough. Pitch in and help.”
 
@@ -95,7 +101,7 @@ Nei ka honua, he 'ōla 'i ia is a Hawaiian proverb that means "When the earth tr
 
 ## O
 ### 'Ōlelo ke kupa o ka 'āina ua mālie, ua au koa'e
-Ōlelo ke kupa o ka 'āina ua mālie, ua au koa'e is a Hawaiian proverb that means "The natives of the land declare the weather is calm when the tropic bird travels afar."
+'Ōlelo ke kupa o ka 'āina ua mālie, ua au koa'e is a Hawaiian proverb that means "The natives of the land declare the weather is calm when the tropic bird travels afar."
 
 ### 'O ka uhiwai nō kā i 'ike i ka 'ino o ka wai
 'O ka uhiwai nō kā i 'ike i ka 'ino o ka wai is a Hawaiian proverb that means "Only the mist knows the storm that caused the streams to swell—only those who are close to a person/situation know the problem(s)."
