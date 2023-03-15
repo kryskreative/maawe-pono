@@ -2,7 +2,8 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This is a personal learning hub for the community-based research course Mā'awe Pono by [Kū-A-Kanaka LLC/Code for America](https://discourse.codeforamerica.org/t/enroll-for-ma-awe-pono-a-course-on-indigenous-community-based-research/1370).
+This is a knowledge resource hub for the community-based research course Mā'awe Pono by [Kū-A-Kanaka LLC/Code for America](https://discourse.codeforamerica.org/t/enroll-for-ma-awe-pono-a-course-on-indigenous-community-based-research/1370). Presented by the Māʻawe Pono Study Lounge.
+
 
 ## License
 
